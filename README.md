@@ -540,5 +540,3 @@ Dieses Script wurde für Darkmatter IT entwickelt.
 - [ ] Automatische Defragmentation
 
 ---
-
-**Viel Erfolg mit deinem PBS Backup-Business!** 🚀
